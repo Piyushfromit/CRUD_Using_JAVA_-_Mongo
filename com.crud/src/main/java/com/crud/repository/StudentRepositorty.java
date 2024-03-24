@@ -5,7 +5,6 @@ import org.springframework.stereotype.Repository;
 
 import com.crud.entity.Student;
 
-@Repository
 public interface StudentRepositorty extends MongoRepository<Student, Integer> {
 	
 	
