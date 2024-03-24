@@ -1,8 +1,8 @@
 # CRUD_Using_JAVA_-_Mongo
 CRUD_Using_JAVA_&amp;_Mongo
 
-<h2>Create:</h2> </br><br>
-localhost:8080/creat-student   <br/>
+<h2>Create:</h2> <br>
+localhost:8080/creat-student   
 
 {
   "name": "John Doe",
